@@ -63,7 +63,7 @@
 } 
 
 #contact{
-    height: 760px;
+    height: 200px;
 }
 #contact .contact{
     display: block;
@@ -78,7 +78,7 @@
 .contact .form .form-la{
     display: flex;
     flex-direction: column;
-    row-gap: 80px;
+    
     position: absolute;
     top: 27.5%;
     margin-left: 100px;
@@ -120,7 +120,7 @@
 }
 
 .contact footer{
-    margin-top: 100px;
+    margin-top: 50px;
     right: 50px;
 }
 
